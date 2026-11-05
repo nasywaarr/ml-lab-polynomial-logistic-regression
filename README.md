@@ -1,6 +1,6 @@
 # Machine Learning Lab: Polynomial and Logistic Regression
 
-![Python](https://img.shields.io/badge/python-3.x-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange) ![Jupyter](https://img.shields.io/badge/notebook-Jupyter-informational)
+![Python](https://img.shields.io/badge/python-3.14-blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9-orange) ![Jupyter](https://img.shields.io/badge/notebook-Jupyter-informational)
 
 | | |
 |---|---|
@@ -87,4 +87,4 @@ Then select **Kernel → Restart & Run All**.
 
 ## Environment
 
-Python 3, NumPy, pandas, Matplotlib, scikit-learn and Jupyter. See [`requirements.txt`](requirements.txt).
+Python 3.14, NumPy, pandas, Matplotlib, scikit-learn and Jupyter. See [`requirements.txt`](requirements.txt).
