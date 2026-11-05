@@ -75,8 +75,8 @@ Five conceptual questions (Q1 to Q5), answered in the notebook.
 No external data files are needed: both datasets are loaded through `sklearn.datasets`.
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/nasywaarr/ml-lab-polynomial-logistic-regression.git
+cd ml-lab-polynomial-logistic-regression
 python -m venv .venv
 source .venv/bin/activate        # on Windows: .venv\Scripts\activate
 pip install -r requirements.txt
